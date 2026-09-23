@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Nithyashree KS 👋
 
-<!--
-**n4175204-a11y/n4175204-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E in Robotics & Artificial Intelligence | 5th Semester
+📍 Tumkur, India
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- Passionate about Robotics and Artificial Intelligence
+- Learning Advanced Python & Arduino
+- Eager to learn and build new projects
+  
+### 🛠️ Tech Stack
+- Languages: Python | C | Basics of C++
+- Hardware: Arduino | Sensors  
+- Tools: Git | GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Python Programming
+- Robotics Fundamentals
+- Computer vision
+
+### 📫 Connect with me
+- Location: Tumkur
+- Portfolio: AICTE Internship Student
+
+*Always curious to learn and build!*
+
+✨ *Always curious to learn and build!*
