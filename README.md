@@ -22,6 +22,5 @@
 - Location: Tumkur
 - Portfolio: AICTE Internship Student
 
-*Always curious to learn and build!*
 
-✨ *Always curious to learn and build!*
+
